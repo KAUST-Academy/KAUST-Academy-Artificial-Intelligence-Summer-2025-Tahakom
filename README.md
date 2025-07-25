@@ -5,7 +5,7 @@
 This is the base Repository for the KAUST Academy Summer School that will be held in two locations across the world.
 
 1. Riyadh, Saudi Arabia
-2. University in Oxford, England
+2. Oxford University, England
 
 ## Program Overview
 
