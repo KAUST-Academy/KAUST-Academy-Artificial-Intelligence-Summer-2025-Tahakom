@@ -18,10 +18,18 @@ The KAUST Academy Artificial Intelligence Summer School 2025 is designed to prov
 
 - Oxford:
   - [Prof. Naeemullah Khan](https://www.linkedin.com/in/profkhan/?originalSubdomain=sa)
+  - [Prof. George Turkiyyah](https://cemse.kaust.edu.sa/profiles/george-turkiyyah)
+  - [Dr. Prashant Aparajeya](https://www.linkedin.com/in/prashant-aparajeya/?originalSubdomain=uk)
+  - [Dr. Tanveer Hussain](https://www.linkedin.com/in/tinu445/)
+  - [Dr. Muhammad Mubashar](https://www.linkedin.com/in/muhammad-mubashar-719b05167/?originalSubdomain=uk)
+  - [Dr. Ankuj]
+  - [Dr. Annie]
 
 ## Teaching Assistants
 
 - [Ali Habibullah](https://www.linkedin.com/in/ali-habibullah/)
+- Azzam Turkistani
+- [Lorena Gallo Larco](https://www.linkedin.com/in/lorenagallolarco/?originalSubdomain=sa)
 
 ## 🏆 Certification
 
