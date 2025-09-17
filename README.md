@@ -22,7 +22,7 @@ The KAUST Academy Artificial Intelligence Summer School 2025 is designed to prov
   - [Dr. Prashant Aparajeya](https://www.linkedin.com/in/prashant-aparajeya/?originalSubdomain=uk)
   - [Dr. Tanveer Hussain](https://www.linkedin.com/in/tinu445/)
   - [Dr. Muhammad Mubashar](https://www.linkedin.com/in/muhammad-mubashar-719b05167/?originalSubdomain=uk)
-  - [Dr. Ankuj]
+  - [Dr. Ankuj Arora](https://www.linkedin.com/in/ankuj-arora-ph-d-94777421/)
   - [Dr. Annie]
 
 ## Teaching Assistants
